@@ -1,0 +1,9 @@
+.saludo {
+  font-family: sans-serif;
+  background-color: transparent;
+  text-align: center;
+}
+
+* {
+  background-color: yellow;
+}
