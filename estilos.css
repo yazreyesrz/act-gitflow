@@ -7,3 +7,19 @@
 * {
   background-color: yellow;
 }
+
+.universo {
+  display: flex;
+  justify-content: space-evenly;
+  font-family: sans-serif;
+  list-style: none;
+  font-size: 130%;
+}
+
+.universo a:hover {
+  color: blue;
+}
+
+.img-totoro {
+  text-align: center;
+}
