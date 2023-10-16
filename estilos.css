@@ -23,3 +23,11 @@
 .img-totoro {
   text-align: center;
 }
+
+.txt-totoro {
+  text-align: center;
+  font-family: serif;
+  background-color: transparent;
+  font-size: 150%;
+  font-style: italic;
+}
